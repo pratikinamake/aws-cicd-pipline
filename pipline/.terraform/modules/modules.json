@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"unique_label","Source":"git::https://github.com/cloudposse/terraform-null-label.git?ref=tags/0.12.0","Dir":".terraform/modules/unique_label"}]}
